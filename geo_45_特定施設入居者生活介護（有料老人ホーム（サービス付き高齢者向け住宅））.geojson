@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_45_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅カーサ・アルバ壱番館【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】宮崎県宮崎市大字小松1133番地1カーサ・アルバ壱番館", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4570110769-00&ServiceCd=&Type=search", "url2": "http://www.casa.junwakai.com" }, "geometry": { "type": "Point", "coordinates": [ 131.4020169, 31.9348961 ] } }
+]
+}

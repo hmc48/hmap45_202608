@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_45_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "りんくる【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市神宮2-1-302F", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590101160-00&ServiceCd=760&Type=search", "url2": "https://www.spinner-linkle.com" }, "geometry": { "type": "Point", "coordinates": [ 131.423869785701811, 31.934460152736804 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回随時対応型訪問介護事業所　輪（りん）【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市大字有田水流田ノ上324-1住宅型有料老人ホーム　輪（りん）", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590101285-00&ServiceCd=760&Type=search", "url2": "https://www.nursing-home-rin.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.372388699999988, 31.9515102 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護（連携型）みまもり【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市清武町正手１丁目56-2あさひハウス３号室", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590101277-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.3881501, 31.8583847 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護ステーション　アルバ【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市大字小松1133番地カーサ・アルバ壱番館3階", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590100857-00&ServiceCd=760&Type=search", "url2": "http://www.junwakai.com" }, "geometry": { "type": "Point", "coordinates": [ 131.4019563, 31.9349329 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護　心の葉【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市清武町加納乙82番地11", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590101392-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.4106038, 31.8786767 ] } },
+{ "type": "Feature", "properties": { "内容": "定巡すまいる【定期巡回・随時対応型訪問介護看護】宮崎県宮崎市大塚町小原田2108-1", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590101608-00&ServiceCd=760&Type=search", "url2": "https://sites.google.com/funworksmiyazaki.com/teizyun-smile/" }, "geometry": { "type": "Point", "coordinates": [ 131.392512900000014, 31.9182339 ] } },
+{ "type": "Feature", "properties": { "内容": "みまもりステーション　あやめ【定期巡回・随時対応型訪問介護看護】宮崎県日向市大字財光寺972番地１０", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590600104-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.631179100000054, 32.4067181 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアステーションすまいりんぐ【定期巡回・随時対応型訪問介護看護】宮崎県えびの市大字原田2139番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4590900041-00&ServiceCd=760&Type=search", "url2": "https://arismiling.life/" }, "geometry": { "type": "Point", "coordinates": [ 130.875903599999987, 32.0349538 ] } }
+]
+}

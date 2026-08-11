@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_45_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "佐土原病院介護医療院【短期入所療養介護（介護医療院）】佐土原町上田島3873番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=45B0100068-00&ServiceCd=551&Type=search", "url2": "https://sadowara-hospital.com" }, "geometry": { "type": "Point", "coordinates": [ 131.4316533, 32.0509416 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　神楽苑【短期入所療養介護（介護医療院）】宮崎県西臼杵郡高千穂町押方1130", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=45B2200015-00&ServiceCd=551&Type=search", "url2": "https://www.kunimigaoka.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 131.2964431, 32.7120452 ] } }
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_45_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人博愛社佐土原病院【介護療養型医療施設】宮崎県宮崎市佐土原町上田島3873番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4510117593-00&ServiceCd=530&Type=search", "url2": "www.sadowara-hospital.com" }, "geometry": { "type": "Point", "coordinates": [ 131.431575599999974, 32.050949 ] } },
+{ "type": "Feature", "properties": { "内容": "小林保養院【介護療養型医療施設】宮崎県小林市堤２９３９番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4510510011-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.989431200000013, 31.9857409 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人相愛会桑原記念病院【介護療養型医療施設】宮崎県小林市細野167", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4510510029-00&ServiceCd=530&Type=search", "url2": "http://www.all-souai.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.978570399999967, 31.9948954 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人十善会県南病院【介護療養型医療施設】宮崎県串間市大字西方3728番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4510710124-00&ServiceCd=530&Type=search", "url2": "http://www.kennan-hospital.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.233587650926211, 31.474167471591397 ] } },
+{ "type": "Feature", "properties": { "内容": "渡辺医院【介護療養型医療施設】宮崎県えびの市大字向江９２９番地", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4510910385-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.76528350000001, 32.0473425 ] } },
+{ "type": "Feature", "properties": { "内容": "川井田医院【介護療養型医療施設】宮崎県西諸県郡高原町大字西麓１７３番地３", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4511810220-00&ServiceCd=530&Type=search", "url2": "http://kawaidaiinn.gouketu.com" }, "geometry": { "type": "Point", "coordinates": [ 131.0006763, 31.923683 ] } },
+{ "type": "Feature", "properties": { "内容": "国民健康保険西米良診療所【介護療養型医療施設】宮崎県児湯郡西米良村大字村所66番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4512011109-00&ServiceCd=530&Type=search", "url2": "http://www.med.pref.miyazaki.lg.jp/institution/nishimera1/" }, "geometry": { "type": "Point", "coordinates": [ 131.155465, 32.2254713 ] } },
+{ "type": "Feature", "properties": { "内容": "五ヶ瀬町国民健康保険病院【介護療養型医療施設】宮崎県五ヶ瀬町大字三ヶ所２１０９番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/45/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4512210180-00&ServiceCd=530&Type=search", "url2": "https://www.town.gokase.miyazaki.jp/kakuka/hospital/index.html" }, "geometry": { "type": "Point", "coordinates": [ 131.197734099999934, 32.6845196 ] } }
+]
+}
